@@ -7,14 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's candidate in the Department of Electrical Engineering at POSTECH, where I am privileged to be advised by [Prof. Yongjune Kim](https://iil.postech.ac.kr/people).
-I earned my B.S. degree in Computer Science and Engineering from Chung-Ang University, graduating Summa Cum Laude.
 
-My research interests center on the Privacy of AI models. 
-As the paradigms of Agentic AI and Physical AI evolve, AI is no longer a distant tool but has become deeply integrated into the lives of individuals and organizations. 
-Furthermore, as communication with external AI systems becomes essential due to local hardware constraints, the importance of AI privacy will only continue to intensify. 
-My ultimate goal is to architect robust AI systems that safeguard privacy without compromising model performance or computational efficiency.
+I am a Master’s candidate in the Department of Electrical Engineering at POSTECH, advised by [Prof. Yongjune Kim](https://iil.postech.ac.kr/people).
+I received my B.S. degree in Computer Science and Engineering from Chung-Ang University, graduating Summa Cum Laude.
 
+My research focuses on **AI Privacy**, specifically centering on **Privacy-Preserving Machine Learning (PPML)** through **Homomorphic Encryption (HE)**. 
+My primary objective is to prevent the leakage of sensitive user information during AI model inference or training, while taking into account model accuracy, computational latency, and communication overhead.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
