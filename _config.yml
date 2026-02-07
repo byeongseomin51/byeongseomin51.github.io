@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_me.png"
+  avatar           : "images/profile_me.png"
   name             : "Byeongseo Min"
   pronouns         : # example: "she/her"  
   bio              : "Keyword: AI Privacy, Privacy-Preserving Machine Learning, Homomorphic Encryption."
