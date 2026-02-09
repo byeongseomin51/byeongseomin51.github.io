@@ -50,7 +50,7 @@
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 
   .cv-download-links .btn {
-    height: $type-size-1;          // CV 글자 높이와 동일하게 설정
+    height: $type-size-2;          // CV 글자 높이와 동일하게 설정
     font-size: $type-size-6;    // 버튼 안 글자는 제목보다 작게
     line-height: 1;       // 글자 세로 중앙 정렬
     display: flex;
@@ -59,7 +59,7 @@
     padding: 0rem 0.5rem;    // 좌우 여백만
     min-width: 2em;       // 버튼 가로 최소 너비
 
-    transform: translateY(-0.15em); 
+    transform: translateY(-0.5em); 
   }
 }
 
