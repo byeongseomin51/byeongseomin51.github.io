@@ -50,7 +50,7 @@
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 
   .cv-download-links .btn {
-    height: 1em;          // CV 글자 높이와 동일하게 설정
+    height: 1rem;          // CV 글자 높이와 동일하게 설정
     font-size: 0.75em;    // 버튼 안 글자는 제목보다 작게
     line-height: 1;       // 글자 세로 중앙 정렬
     display: flex;
