@@ -50,7 +50,7 @@
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 
   .cv-download-links .btn {
-    height: auto;               // height 제거
+    height: $type-size;             
     padding: 0rem 0.5rem;     // 상하 여백을 살짝 줘서 CV 글자 높이에 맞춤
     font-size: $type-size-6;
     display: flex;
