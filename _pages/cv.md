@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">View CV as PDF</a>
-</div>
+
 
 Education
 ======
