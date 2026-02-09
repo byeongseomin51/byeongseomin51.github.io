@@ -43,6 +43,13 @@
   }
 }
 
+.page__title-wrapper {
+  display: flex;
+  align-items: center; /* Vertically center the items */
+  gap: 1em; /* Add some space between the title and the button */
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
