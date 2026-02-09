@@ -9,10 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{% include cv-template.html %}
-
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">View CV as PDF</a>
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">View CV as PDF</a>
 </div>
 
 Education
