@@ -18,11 +18,12 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <div class="page__title-wrapper">
-        <h1 class="page__title">{{ page.title }}</h1>
         {% if page.permalink == "/cv/" %}
           <div class="cv-download-links">
             <a href="{{ base_path }}/files/cv_byeongseo_min.pdf" class="btn btn--primary" target="_blank" rel="noopener noreferrer">View as PDF</i></a>
           </div>
+        {% else %}  
+          <h1 class="page__title">{{ page.title }}</h1>
         {% endif %}
       </div>
     {% endunless %}
