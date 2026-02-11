@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Electrical Engineering , Pohang University of Science and Technology, Feb. 2027 (expected)
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical Engineering, Pohang University of Science and Technology, Feb. 2027 (expected)
+* B.S. in Computer Science and Engineering, Chung-Ang University, Feb. 2025
+  * GPA: 4.31/4.50 (Summa Cum Laude)
 
 Work experience
 ======
