@@ -117,3 +117,14 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+/* 모바일 및 좁은 화면에서 우측 끝에 딱 붙는 버튼 여백 강제 확보 */
+.greedy-nav button,
+#theme-toggle {
+  margin-right: 1rem !important; /* 오른쪽 벽에서 1rem 만큼 밀어냅니다 */
+}
+
+/* 햄버거 버튼이 절대 좌표로 설정되어 있을 경우 우측 기준점을 이동 */
+.greedy-nav button {
+  right: 1rem !important; 
+}
