@@ -212,12 +212,22 @@
     display: flex;
     align-items: center;
     width: 100%;
+    &::before {
+      content: "";
+      flex: 1;    /* 남은 공간을 모두 차지하여 메뉴들을 양옆으로 밀어냄 */
+      order: 1;   /* 순서 1: '이름'과 '나머지 메뉴' 사이에 위치하게 함 */
+    }
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      /*Right align*/
+      // display: table-cell;
+      // vertical-align: middle;
+      display: block;
+      flex: none; /* 각 메뉴 넓이는 딱 글자 크기만큼만 유지 (JS 착각 방지) */
+      order: 2;   /* 기본적으로 모든 메뉴는 우측(빈 공간 뒤)에 배치 */
 
       &:first-child {
+        order: 0; /* 첫 번째 이름 메뉴만 좌측(빈 공간 앞)에 배치 */
         font-weight: bold;
         text-wrap: wrap;
         /*Right align*/
