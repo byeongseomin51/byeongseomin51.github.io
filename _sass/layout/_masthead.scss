@@ -51,11 +51,6 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-
-    /* Right Align */
-    display: flex;
-    align-items: center;
-    width: 100%;
   }
 }
 
@@ -65,16 +60,9 @@
   list-style-type: none;
   white-space: nowrap;
 
-  /* Right Align */
-  margin-left: 1.5rem;
-
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-
-    /* Right Align */
-    margin-right: auto;
-    margin-left: 0;
   }
 }
 
