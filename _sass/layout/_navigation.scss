@@ -177,6 +177,10 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+  /*오른쪽 정렬*/
+  display: flex;
+  align-items: center;
+
   a {
     display: block;
     margin: 0 1rem;
@@ -203,11 +207,19 @@
   }
 
   .visible-links {
-    display: table;
+    /*오른쪽 정렬*/
+    // display: table;
+    display: flex;
+    justify-content: flex-end; /* 메뉴들을 우측으로 밀어냅니다. */
+    align-items: center;       /* 세로 중앙 정렬 */
+    flex: 1;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      // display: table-cell;
+      // vertical-align: middle;
+      /*오른쪽 정렬*/
+      display: block; 
+      flex: none;
 
       &:first-child {
         font-weight: bold;
@@ -329,14 +341,6 @@
 
   ul {
     margin-bottom: 1em;
-
-    // /* 하위 메뉴(Children)만 우측 정렬 */
-    // ul {
-    //   text-align: right;
-      
-    //   /* 우측 정렬 시, 기존의 왼쪽 들여쓰기(padding)가 어색하다면 0으로 초기화 */
-    //   padding-left: 0; 
-    // }
   }
 
   a {
