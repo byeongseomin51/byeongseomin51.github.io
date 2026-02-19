@@ -330,13 +330,13 @@
   ul {
     margin-bottom: 1em;
 
-    /* 하위 메뉴(Children)만 우측 정렬 */
-    ul {
-      text-align: right;
+    // /* 하위 메뉴(Children)만 우측 정렬 */
+    // ul {
+    //   text-align: right;
       
-      /* 우측 정렬 시, 기존의 왼쪽 들여쓰기(padding)가 어색하다면 0으로 초기화 */
-      padding-left: 0; 
-    }
+    //   /* 우측 정렬 시, 기존의 왼쪽 들여쓰기(padding)가 어색하다면 0으로 초기화 */
+    //   padding-left: 0; 
+    // }
   }
 
   a {
