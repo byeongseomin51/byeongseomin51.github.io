@@ -24,7 +24,10 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv_byeongseo_min.pdf
+    target: "_blank"
+    rel: "noopener noreferrer"
+    # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
