@@ -91,7 +91,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  margin-left: 1.5rem; /* 우측 메뉴들 사이의 간격 */
+  margin-left: 1rem; /* 우측 메뉴들 사이의 간격 */
 
   /* [버그 수정] 테마 원본에 숨어있는 '첫 번째 항목 무조건 볼드체' 강제 규칙을 덮어씁니다 */
   a {
@@ -118,16 +118,3 @@
   /* No need to repeat pointer-events and cursor here */
 }
 
-/* 모바일 화면(폭이 좁아졌을 때)에서 우측 여백 강제 확보 */
-@media screen and (max-width: 64em) {
-  .masthead__menu .nav-right-wrapper {
-    /* 우측 끝 벽에서 1.5rem(약 24px) 만큼의 쿠션을 강제로 만듭니다 */
-    padding-right: 1.5rem !important; 
-  }
-  
-  /* 다크모드 토글 버튼과 햄버거 버튼 자체에도 안전 여백 추가 */
-  #theme-toggle,
-  .greedy-nav button {
-    margin-right: 0.5rem !important;
-  }
-}
