@@ -22,10 +22,19 @@ Recent update
 ======
 <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
   <div style="flex: 1; padding-right: 20px;">
-    • Invited as Reviewer from IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
+    • Reviewer from <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858">IEEE Transactions on Dependable and Secure Computing</a> (invited)
   </div>
   <div style="flex-shrink: 0; color: #888; font-size: 0.9em; text-align: right;">
     Feb. 2026
+  </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
+  <div style="flex: 1; padding-right: 20px;">
+    • New <a href="https://arxiv.org/abs/2602.01621">paper</a> submitted to <a href="https://icml.cc/Conferences/2026">ICML 2026</a>  
+  </div>
+  <div style="flex-shrink: 0; color: #888; font-size: 0.9em; text-align: right;">
+    Jan. 2026
   </div>
 </div>
 
