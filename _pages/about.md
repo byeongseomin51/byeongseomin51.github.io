@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Master’s candidate in the Department of Electrical Engineering at POSTECH, advised by [Prof. Yongjune Kim](https://iil.postech.ac.kr/people).
+I am a Master’s candidate in the Department of Electrical Engineering at POSTECH, advised by <a href="https://iil.postech.ac.kr/people" target="_blank" rel="noopener noreferrer">Prof. Yongjune Kim</a>.
 I received my B.S. degree in Computer Science and Engineering from Chung-Ang University, graduating Summa Cum Laude.
 
 My research focuses on AI Privacy, specifically centering around **Privacy-Preserving Machine Learning (PPML)** based on **Homomorphic Encryption (HE)**. 
