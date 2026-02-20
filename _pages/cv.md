@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-
+<!-- 
 Education
 ======
 * M.S. in Electrical Engineering, Pohang University of Science and Technology, Feb. 2027 (expected)
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
