@@ -14,14 +14,19 @@ I received my B.S. degree in Computer Science and Engineering from Chung-Ang Uni
 My research focuses on AI Privacy, specifically centering around **Privacy-Preserving Machine Learning (PPML)** based on **Homomorphic Encryption (HE)**. 
 My primary interest is to prevent the leakage of sensitive user information during AI model inference, while taking into account model accuracy, computational latency, and communication overhead.
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <div style="flex: 2; min-width: 300px;" markdown="1">
+<!-- <div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <div style="flex: 2; min-width: 300px;" markdown="1"> -->
+
+Research Interest
+------
+AI Privacy, Privacy-Preserving Machine Learning (PPML), Homomorphic Encryption
+
 
 Recent update
 ------
 <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
   <div style="flex: 1; padding-right: 20px;">
-    • Reviewer from <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858" target="_blank" rel="noopener noreferrer">IEEE Transactions on Dependable and Secure Computing</a> (invited)
+    • Invited as a reviewer for <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858" target="_blank" rel="noopener noreferrer">IEEE Transactions on Dependable and Secure Computing</a> (2nd time).
   </div>
   <div style="flex-shrink: 0; color: #888; font-size: 0.9em; text-align: right;">
     Feb. 2026
@@ -37,15 +42,12 @@ Recent update
   </div>
 </div>
 
-  </div>
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+  <!-- </div>
+  <div style="flex: 1; min-width: 250px;" markdown="1"> -->
 
-Research Interest
-------
-AI Privacy, Privacy-Preserving Machine Learning (PPML), Homomorphic Encryption
 
-  </div>
-</div>
+  <!-- </div>
+</div> -->
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
