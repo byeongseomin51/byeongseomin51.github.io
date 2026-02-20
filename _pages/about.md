@@ -14,9 +14,13 @@ I received my B.S. degree in Computer Science and Engineering from Chung-Ang Uni
 My research focuses on AI Privacy, specifically centering around **Privacy-Preserving Machine Learning (PPML)** based on **Homomorphic Encryption (HE)**. 
 My primary interest is to prevent the leakage of sensitive user information during AI model inference, while taking into account model accuracy, computational latency, and communication overhead.
 
+Research Interest
+======
+AI Privacy, Privacy-Preserving Machine Learning (PPML), Homomorphic Encryption
+
 Recent update
 ======
-Feb 2026 Reviewer 
+* Invited as Reviewer from IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) <span style="float: right; color: #888;">Feb. 2026</span>
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
