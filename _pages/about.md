@@ -14,18 +14,11 @@ I received my B.S. degree in Computer Science and Engineering from Chung-Ang Uni
 My research focuses on AI Privacy, specifically centering around **Privacy-Preserving Machine Learning (PPML)** based on **Homomorphic Encryption (HE)**. 
 My primary interest is to prevent the leakage of sensitive user information during AI model inference, while taking into account model accuracy, computational latency, and communication overhead.
 
-
-
-
-Research Interest
-======
-AI Privacy, Privacy-Preserving Machine Learning (PPML), Homomorphic Encryption
-
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <div style="flex: 2; min-width: 300px;" markdown="1">
 
 Recent update
-======
+------
 <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 5px;">
   <div style="flex: 1; padding-right: 20px;">
     • Reviewer from <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858" target="_blank" rel="noopener noreferrer">IEEE Transactions on Dependable and Secure Computing</a> (invited)
@@ -41,6 +34,16 @@ Recent update
   </div>
   <div style="flex-shrink: 0; color: #888; font-size: 0.9em; text-align: right;">
     Jan. 2026
+  </div>
+</div>
+
+  </div>
+  <div style="flex: 1; min-width: 250px;" markdown="1">
+
+Research Interest
+------
+AI Privacy, Privacy-Preserving Machine Learning (PPML), Homomorphic Encryption
+
   </div>
 </div>
 
